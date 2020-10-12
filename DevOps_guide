@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=hQcFE0RD0cQ - DevOps Edureka Video
+
+Install and setup git in CentOS:
+https://linuxize.com/post/how-to-install-git-on-centos-7/
+
+Install and configure Jenkins:
+https://linuxize.com/post/how-to-install-jenkins-on-centos-7/
+or
+https://www.linuxtechi.com/install-configure-jenkins-on-centos-7-rhel-7/
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCSiEWUkfWtfD1idLvN48Ur0ShBhC9ZHSN8LKz+O0DsJGpdzrkjHiydF16jP8ZhZN0K+yNVzZQvgCb75i9Li7PwlrMapUdZuZLF4pX/0MxTatQRaikLOXMb/zryHz393cxIK+0L7uUEzQrKbK5BnPd+BPO8s0cBfOaxaHfAjqhwVgVe0yIEBXrM1N7In9Yqa62oY2Yj9JSswNFE7StSN7iLhxD/hr5lB+aeqrApMQTx1YyDW7pLm8wAb0kJYTw3UAFlSDFbi9LgEB42hEE7vUu4rMIIVgJeKmpYxmGLIEP0Bmfu3GUiM3z2n1pY4NkAgeXd4O2XZCjtI0mJ3udOuwRv root@centos1
+
+
+git remote add origin git@github.com:rajkajam/DevOps.git
+
+git pull --allow-unrelated-histories
