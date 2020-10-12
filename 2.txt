@@ -1,2 +1,0 @@
-hello from 2.test
-hello
